@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cuatoi a{
+    color: #ff7675 !important;
+    font-weight: 500;
+}
+.cuatoi ul {
+    height: 70px;
+}
+.thuhai{
+    height: 500px;
+    margin: 0 auto;
+    width: 80%;
+    padding: 50px 0;
+}
+.table td, .table th {
+    border-top: 1px solid white;}
+.chu{
+    height: 100px;
+    margin: 0 auto;
+    padding-left: 100px;
+}
+.cuoicung{
+    text-align: center;
+    background-color: #ff7675;
+}
+/* .thuhai table thead tr td img{
+    width: 200px;
+    height: 200px;
+} */
+.thuhaii{
+    height: 800px;
+    margin: 0 auto;
+    width: 80%;
+    padding: 50px 0;
+    
+}
+.thuhaii tr th{
+    margin: 0 100px;
+}
